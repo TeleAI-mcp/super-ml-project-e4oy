@@ -1,2 +1,3 @@
-# super-ml-project-e4oy
-Automated issue comment bot repository
+# Super Ml Project E4Oy
+
+Automated issue comment bot repository.
